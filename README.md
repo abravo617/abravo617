@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anika Bravo
 - 👀 I’m interested in cybersecurity and AI.
 - 🌱 I’m currently learning security+ and networking+
-- 💞️ I’m looking to apply the skills I have acquired into practical, real-world applications. This includes internships, externships, and jobs
+- 💞️ I’m looking to apply the skills I have acquired into practical, real-world applications.
 - 📫 Reach me at bravoanika0617@gmail.com and https://www.linkedin.com/in/anika-bravo-3584b92b6/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My team and I got 1st place in a cyber escape room at Broward College.
